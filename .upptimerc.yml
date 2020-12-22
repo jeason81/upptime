@@ -24,6 +24,9 @@ sites:
     url: https://registry1.dso.mil
     expectedStatusCodes:
       - 200
+    maxResponseTime: 5000
+    assignees:
+      - jeason81
 
 
 status-website:
