@@ -31,7 +31,7 @@ status-website:
 #   cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://repo1.dso.mil/uploads/-/system/group/avatar/40/Iron_Bank_Logo_small.png?width=38
   name: Ironbank
   introTitle: PlatformOne
   introMessage: Ironbank status page
