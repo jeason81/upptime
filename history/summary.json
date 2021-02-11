@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 95,
-    "timeWeek": 84,
+    "time": 83,
+    "timeDay": 58,
+    "timeWeek": 82,
     "timeMonth": 76,
-    "timeYear": 84,
+    "timeYear": 83,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 958,
-    "timeDay": 1522,
-    "timeWeek": 810,
-    "timeMonth": 1024,
-    "timeYear": 958,
+    "time": 960,
+    "timeDay": 1080,
+    "timeWeek": 889,
+    "timeMonth": 1026,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2021-01-03": 64
     }
@@ -43,14 +43,14 @@
     "icon": "https://favicons.githubusercontent.com/repo1.dso.mil",
     "slug": "repo1",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 466,
-    "timeDay": 309,
-    "timeWeek": 439,
+    "timeDay": 461,
+    "timeWeek": 492,
     "timeMonth": 465,
     "timeYear": 466,
     "dailyMinutesDown": {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 494,
-    "timeDay": 1600,
-    "timeWeek": 511,
-    "timeMonth": 472,
-    "timeYear": 494,
+    "time": 504,
+    "timeDay": 1035,
+    "timeWeek": 604,
+    "timeMonth": 469,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2021-01-03": 87
     }
