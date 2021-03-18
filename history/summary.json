@@ -22,10 +22,10 @@
     "url": "https://ironbank.dso.mil",
     "icon": "https://favicons.githubusercontent.com/ironbank.dso.mil",
     "slug": "ironbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 1086,
@@ -34,6 +34,7 @@
     "timeMonth": 1270,
     "timeYear": 1086,
     "dailyMinutesDown": {
+      "2021-03-18": 1,
       "2021-03-09": 33,
       "2021-01-03": 64
     }
@@ -43,10 +44,10 @@
     "url": "https://repo1.dso.mil/api/v4/version",
     "icon": "https://favicons.githubusercontent.com/repo1.dso.mil",
     "slug": "repo1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.87%",
     "time": 535,
@@ -55,6 +56,7 @@
     "timeMonth": 672,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2021-03-18": 1,
       "2021-03-09": 33,
       "2021-03-03": 36,
       "2021-01-28": 36,
@@ -66,9 +68,9 @@
     "url": "https://registry1.dso.mil",
     "icon": "https://favicons.githubusercontent.com/registry1.dso.mil",
     "slug": "registry1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
@@ -78,6 +80,7 @@
     "timeMonth": 440,
     "timeYear": 482,
     "dailyMinutesDown": {
+      "2021-03-18": 0,
       "2021-03-09": 32,
       "2021-01-03": 87
     }
