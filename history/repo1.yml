@@ -1,7 +1,7 @@
 url: https://repo1.dso.mil/api/v4/version
-status: down
-code: 503
-responseTime: 142
-lastUpdated: 2021-06-15T23:06:59.456Z
+status: up
+code: 401
+responseTime: 510
+lastUpdated: 2021-06-15T23:24:29.419Z
 startTime: Tue Dec 22 2020 00:22:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
